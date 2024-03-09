@@ -1,6 +1,6 @@
 import { useRoutes } from 'react-router-dom'
 import Login from './pages/Login'
-import ProductList from './pages/ProductList'
+//import ProductList from './pages/ProductList'
 import Register from './pages/Register'
 import RegisterLayout from './layouts/RegisterLayout'
 import LoginLayout from './layouts/LoginLayout/LoginLayout'
