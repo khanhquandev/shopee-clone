@@ -17,7 +17,7 @@ export default function Login() {
                 />
                 <div className='mt-1 text-red-600 min-h-[1rem] text-sm'></div>
               </div>
-              <div className='mt-3'>
+              <div className='mt-10'>
                 <input
                   type='password'
                   name='password'
